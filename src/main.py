@@ -2,12 +2,12 @@ import socket
 
 from Crypto.Cipher import DES
 
-from classes.Client import Client
+from classes.Node import Node
 from classes.PixelFormat import PixelFormat
 
 from utilities import *
 
-class VNConnection(Client):
+class VNConnection(Node):
     def __init__(self, host: str, port: int, password: str):
         super().__init__(host, port, password)
     
