@@ -69,7 +69,7 @@ class VNConnection(Node):
         self.send(shortToBytes(self.height))
         
         # Send pixelFormat. TODO / Send data from class PixelFormat
-        self.send(b' \x18\x00\x01\x00\xff\x00\xff\x00\xff\x10\x08\x00\x00\x00\x00')
+        self.send(b'\x18\x00\x01\x00\xff\x00\xff\x00\xff\x10\x08\x00\x00\x00\x00')
         
         self.name = self.send(integerToBytes(len(self.name)) + bytes(self.name, "utf-8"))
         
