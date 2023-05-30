@@ -9,7 +9,7 @@
   
 </div>
 
-Articles and documentation:
+### Articles and documentation:
 - [Documentation with minimalistic style](https://www.rfc-editor.org/rfc/rfc6143.html)
 - [Article](https://www.vidarholen.net/contents/junk/vnc.html)
 - [Documentation GitHub](https://github.com/rfbproto/rfbproto/blob/master/rfbproto.rst)
