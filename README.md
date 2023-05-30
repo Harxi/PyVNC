@@ -8,3 +8,10 @@
   # PyVNC
   
 </div>
+
+Articles and documentation:
+- [Documentation with minimalistic style](https://www.rfc-editor.org/rfc/rfc6143.html)
+- [Article](https://www.vidarholen.net/contents/junk/vnc.html)
+- [Documentation GitHub](https://github.com/rfbproto/rfbproto/blob/master/rfbproto.rst)
+- [Wikipedia](https://en.m.wikipedia.org/wiki/RFB_protocol)
+- [Documentation](https://vncdotool.readthedocs.io/en/0.8.0/rfbproto.html)
