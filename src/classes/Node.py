@@ -1,4 +1,4 @@
-class Client:
+class Node:
     def __init__(self, host: str, port: int, password: str):
         self.PASSWORD = password
         
