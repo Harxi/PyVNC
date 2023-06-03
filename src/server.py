@@ -1,4 +1,3 @@
-
 import socket, os
 
 from Crypto.Cipher import DES
